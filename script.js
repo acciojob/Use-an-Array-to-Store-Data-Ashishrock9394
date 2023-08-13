@@ -1,1 +1,1 @@
-
+let yourArray = ['Ashish', 143, true, null, undefined];
